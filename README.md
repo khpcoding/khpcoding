@@ -7,4 +7,4 @@
 - 
 - 🌐 Socials
 
-- https://www.linkedin.com/in/khashayar-panbeian-8533a1201/
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khashayar-panbeian-8533a1201/)
