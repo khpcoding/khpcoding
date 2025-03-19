@@ -20,7 +20,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khpcoding&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [your.email@example.com](mailto:kpanbeian@gmail.com)
 - 💬 LinkedIn: [Khashayar Panbeian](https://www.linkedin.com/in/khashayar-panbeian-8533a1201/)
 
 ---
