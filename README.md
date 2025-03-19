@@ -21,6 +21,4 @@
 - 📧 Email: [kpanbeian@gmail.com](mailto:kpanbeian@gmail.com)
 - 💬 LinkedIn: [Khashayar Panbeian](https://www.linkedin.com/in/khashayar-panbeian-8533a1201/)
 
----
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
