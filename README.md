@@ -17,7 +17,7 @@
 - **Monitoring & Logging**: [e.g., Prometheus, Grafana, ELK Stack]
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khpcoding&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
