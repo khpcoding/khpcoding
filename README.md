@@ -8,12 +8,11 @@
 ## 🌐 Socials
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khashayar-panbeian-8533a1201/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/yourusername)
-- [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
 
 ## 🛠️ Tech Stack
 - **Programming Languages**: [e.g., Go, Python]
-- **DevOps Tools**: [e.g.,Linux, Kubernetes, Docker, Terraform]
-- **Monitoring & Logging**: [e.g., Prometheus, Grafana, ELK Stack]
+- **DevOps Tools**: [e.g.,Linux, Kubernetes, Docker, Terraform , Ansible]
+- **Monitoring & Logging**: [e.g., Prometheus, Grafana, ELK Stack, Zabbix]
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khpcoding&show_icons=true&theme=radical)
