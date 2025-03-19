@@ -12,8 +12,7 @@
 
 ## 🛠️ Tech Stack
 - **Programming Languages**: [e.g., Go, Python]
-- **DevOps Tools**: [e.g., Kubernetes, Docker, Terraform]
-- **Cloud Platforms**: [e.g., AWS, GCP, Azure]
+- **DevOps Tools**: [e.g.,Linux, Kubernetes, Docker, Terraform]
 - **Monitoring & Logging**: [e.g., Prometheus, Grafana, ELK Stack]
 
 ## 📈 GitHub Stats
