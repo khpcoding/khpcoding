@@ -14,8 +14,6 @@
 - **DevOps Tools**: [e.g.,Linux, Kubernetes, Docker, Terraform , Ansible]
 - **Monitoring & Logging**: [e.g., Prometheus, Grafana, ELK Stack, Zabbix]
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khpcoding&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - 📧 Email: [kpanbeian@gmail.com](mailto:kpanbeian@gmail.com)
