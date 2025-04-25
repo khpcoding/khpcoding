@@ -18,7 +18,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khashayar%20Panbeian-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khashayar-panbeian-8533a1201/)
-[![GitHub](https://img.shields.io/badge/GitHub-khashayar-panbeian-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-khashayar-panbeian-black?style=for-the-badge&logo=github)](https://github.com/khpcoding)
 [![Email](https://img.shields.io/badge/Email-kpanbeian%40gmail.com-informational?style=for-the-badge&logo=gmail)](mailto:kpanbeian@gmail.com)
 
 ---
